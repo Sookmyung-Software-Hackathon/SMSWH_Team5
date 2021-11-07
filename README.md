@@ -1,8 +1,10 @@
 # ❄숙명여대 소프트웨어 해커톤❄
 
-[어플리케이션 기획서](https://www.notion.so/5-SMSWH-2021-afffe3334865422b80a2c92ff01daf91)
-[시연 영상](https://drive.google.com/file/d/1-76Y5uGJc5Xagm80LXhx88ok56qQQMle/view?usp=sharing)
-[apk 다운로드 링크](https://drive.google.com/file/d/1phOlJCucOLb0Nz4D0doF9Qvafqdrf27l/view?usp=sharing)
+[어플리케이션 기획서](https://www.notion.so/5-SMSWH-2021-afffe3334865422b80a2c92ff01daf91) 
+
+[시연 영상](https://drive.google.com/file/d/1-76Y5uGJc5Xagm80LXhx88ok56qQQMle/view?usp=sharing) 
+
+[apk 다운로드 링크](https://drive.google.com/file/d/1phOlJCucOLb0Nz4D0doF9Qvafqdrf27l/view?usp=sharing) 
 
 ### 팀원 
 > 김영경, 강수아 
